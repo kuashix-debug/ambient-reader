@@ -4,7 +4,7 @@
 
 Ambient Reader is a bilingual web application that combines digital reading with adaptive ambient audio. Instead of listening to the same playlist throughout an entire book, the soundscape evolves as you read, responding to changes in setting, weather, mood, and intensity.
 
-🌐 **Live demo:** https://prueba.lector-ambiental.pages.dev/
+🌐 **Live demo:** https://lector-ambiental.pages.dev/
 
 ## Features
 
