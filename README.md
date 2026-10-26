@@ -110,6 +110,4 @@ Future development may focus on:
 
 Visit the live demo to explore how ambient audio can accompany your reading.
 
-🌐 **https://lector-ambiental.pages.dev**
-
 **Ambient Reader — You focus on reading. The atmosphere evolves with the story.**
